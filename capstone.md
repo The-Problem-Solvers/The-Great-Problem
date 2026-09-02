@@ -1,5 +1,5 @@
 # Card Game
-by Marcin Gromadzki, Jan Baszczyński, Damian Peranowski, Zawada Hubert
+by Marcin Gromadzki, Jan Baszczyński, Damian Peranowski, Hubert Zawada
 
 ## General Idea
 Heartstone/Inscryption/Gwent inspired card game for two players.
